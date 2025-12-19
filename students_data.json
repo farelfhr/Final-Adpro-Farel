@@ -1,7 +1,17 @@
 [
     {
+        "name": "Maula Zikri Renaldi",
+        "student_id": "243057737279",
+        "major": "Teknologi Rekayasa Elektronika"
+    },
+    {
         "name": "Muhammad Farel Alfathir",
         "student_id": "240535607790",
-        "major": "Computer Science"
+        "major": "Teknik Informatika"
+    },
+    {
+        "name": "Ulil Albab",
+        "student_id": "240535779920",
+        "major": "Animasi"
     }
 ]
